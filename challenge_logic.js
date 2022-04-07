@@ -150,6 +150,6 @@ legend.onAdd = function() {
   });
 });
 
-  // Add the tectonic layer group to the map.
-  tectonicPlates.addTo(map);
+//   // Add the tectonic layer group to the map.
+//   tectonicPlates.addTo(map);
 });
